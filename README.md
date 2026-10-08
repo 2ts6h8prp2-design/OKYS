@@ -1,0 +1,1 @@
+Online Kütüphane Yönetim Sistemi. Kitap, kopya, kullanıcı ve ödünç kaydı sınıflarını içerir.
